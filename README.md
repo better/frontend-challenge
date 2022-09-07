@@ -14,7 +14,7 @@ Please don’t spend more than 60 minutes on this project
 
 1. Use https://pokeapi.co
 
-2. Make a web app where I can search for a character, like “ditto”, and see their picture, abilities, stats, and held items
+2. Make a web app where I can search for a character, like “ditto”, and see their picture (`front_default` is fine), abilities, stats, and held items
 
 3. Put the code up on https://github.com as a private project and add careers-eng@better.com as a contributor
 
