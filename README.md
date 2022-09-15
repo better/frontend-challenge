@@ -16,7 +16,7 @@ Please don’t spend more than 60 minutes on this project
 
 2. Make a React web app where I can search for a character, like “ditto”, and see their picture, abilities, stats, and held items
 
-3. Put the code up on https://github.com as a private project and add careers-eng@better.com as a contributor
+3. Put the code up on https://github.com as a private project and add archerabi and kirkstrobeck as contributors
 
 4. Deploy the app on https://vercel.com and add a link in the repo
 
